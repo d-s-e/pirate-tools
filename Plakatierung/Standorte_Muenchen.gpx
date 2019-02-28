@@ -3,6 +3,14 @@
   <metadata>
     <name>favourites</name>
   </metadata>
+  <wpt lat="48.1509128" lon="11.5816927">
+    <name>17021 (17021)</name>
+    <type>Plakate</type>
+    <cmt>Amenity:17021: emergency_infrastructure:fire_hydrant</cmt>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
   <wpt lat="48.1413602" lon="11.4928234">
     <name>Agricolastraße (Laim), München</name>
     <type>Plakate</type>
@@ -33,6 +41,7 @@
   </wpt>
   <wpt lat="48.1522681" lon="11.613167">
     <name>Bülowstraße (Bezirksteil Altbogenhausen), Altbogenhausen (1)</name>
+    <desc>umsetzen</desc>
     <type>Plakate</type>
     <extensions>
       <color>#b4d00d0d</color>
@@ -59,6 +68,13 @@
       <color>#b4d00d0d</color>
     </extensions>
   </wpt>
+  <wpt lat="48.0878274" lon="11.6392974">
+    <name>Dietzfelbingerplatz (Bezirksteil Neuperlach) 2, Neuperlach</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
   <wpt lat="48.1452688" lon="11.4798036">
     <name>Landsberger Straße, Am Westbad</name>
     <type>Plakate</type>
@@ -73,22 +89,8 @@
       <color>#b4d00d0d</color>
     </extensions>
   </wpt>
-  <wpt lat="48.0999829" lon="11.6308903">
-    <name>Meine Position (1)</name>
-    <type>Plakate</type>
-    <extensions>
-      <color>#b4d00d0d</color>
-    </extensions>
-  </wpt>
   <wpt lat="48.0881582" lon="11.6408894">
     <name>Meine Position (2)</name>
-    <type>Plakate</type>
-    <extensions>
-      <color>#b4d00d0d</color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.0882312" lon="11.6406271">
-    <name>Meine Position (3)</name>
     <type>Plakate</type>
     <extensions>
       <color>#b4d00d0d</color>
@@ -101,6 +103,13 @@
       <color>#b4d00d0d</color>
     </extensions>
   </wpt>
+  <wpt lat="48.1657185" lon="11.4943993">
+    <name>Menzinger Straße (Nymphenburg), München</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
   <wpt lat="48.1527955" lon="11.5341591">
     <name>Nymphenburger Straße, Neuhausen</name>
     <type>Plakate</type>
@@ -108,8 +117,50 @@
       <color>#b4d00d0d</color>
     </extensions>
   </wpt>
-  <wpt lat="48.1285035" lon="11.6003591">
-    <name>Pariser Platz (Au-Haidhausen), München</name>
+  <wpt lat="48.1285376" lon="11.6000901">
+    <name>Pariser Platz (Au-Haidhausen), München (1)</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1005389" lon="11.6303587">
+    <name>Pfanzeltplatz, Perlach</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1396395" lon="11.60682">
+    <name>Prinzregentenstraße (Altbogenhausen), Bogenhausen</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1430368" lon="11.5889662">
+    <name>Prinzregentenstraße (Bezirksteil Lehel), Lehel</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1429502" lon="11.5888712">
+    <name>Prinzregentenstraße (Bezirksteil Lehel), Lehel (1)</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1383825" lon="11.6125414">
+    <name>Prinzregentenstraße, Steinhausen</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1501806" lon="11.5813764">
+    <name>Professor-Huber-Platz (Stadtbezirk 03 Maxvorstadt), Maxvorstadt</name>
     <type>Plakate</type>
     <extensions>
       <color>#b4d00d0d</color>
@@ -192,8 +243,43 @@
       <color>#b4d00d0d</color>
     </extensions>
   </wpt>
-  <wpt lat="48.1283149" lon="11.596181">
-    <name>Weißenburger Platz (Au-Haidhausen), München</name>
+  <wpt lat="48.1197714" lon="11.6698904">
+    <name>Wasserburger Landstraße, Bezirksteil Trudering-Riem</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1207904" lon="11.6663647">
+    <name>Wasserburger Landstraße, Bezirksteil Trudering-Riem (2)</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1209559" lon="11.6657058">
+    <name>Wasserburger Landstraße, Bezirksteil Trudering-Riem (3)</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1208467" lon="11.6661847">
+    <name>Wasserburger Landstraße, Bezirksteil Trudering-Riem (4)</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1134837" lon="11.7006935">
+    <name>Wasserburger Landstraße, München</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1180233" lon="11.6889343">
+    <name>Wasserburger Landstraße, München (1)</name>
     <type>Plakate</type>
     <extensions>
       <color>#b4d00d0d</color>
