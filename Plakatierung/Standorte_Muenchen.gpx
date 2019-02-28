@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favourites</name>
+  </metadata>
+  <wpt lat="48.1413602" lon="11.4928234">
+    <name>Agricolastraße (Laim), München</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1277166" lon="11.5759601">
+    <name>Auenstraße, München</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1784599" lon="11.5559966">
+    <name>Brundageplatz, München</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1523675" lon="11.6132971">
+    <name>Bülowstraße (Bezirksteil Altbogenhausen), Altbogenhausen</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1522681" lon="11.613167">
+    <name>Bülowstraße (Bezirksteil Altbogenhausen), Altbogenhausen (1)</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1520905" lon="11.6127832">
+    <name>Bülowstraße (Bezirksteil Altbogenhausen), Altbogenhausen (2)</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0898847" lon="11.6449437">
+    <name>Carl-Wery-Straße (Perlach), München</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1600671" lon="11.5468647">
+    <name>Dachauer Straße, Oberwiesenfeld</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1452688" lon="11.4798036">
+    <name>Landsberger Straße, Am Westbad</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0998358" lon="11.6310374">
+    <name>Meine Position</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0999829" lon="11.6308903">
+    <name>Meine Position (1)</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0881582" lon="11.6408894">
+    <name>Meine Position (2)</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0882312" lon="11.6406271">
+    <name>Meine Position (3)</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0890682" lon="11.6440922">
+    <name>Meine Position (5)</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1527955" lon="11.5341591">
+    <name>Nymphenburger Straße, Neuhausen</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1285035" lon="11.6003591">
+    <name>Pariser Platz (Au-Haidhausen), München</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1482168" lon="11.6160451">
+    <name>Richard-Strauss-Straße (Bogenhausen) 87, München</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1482932" lon="11.6163139">
+    <name>Richard-Strauss-Straße (Bogenhausen), München</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1458966" lon="11.615968">
+    <name>Richard-Strauss-Straße (Bogenhausen), München (1)</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1483256" lon="11.6163583">
+    <name>Richard-Strauss-Tunnel (Bezirksteil Altbogenhausen), Altbogenhausen</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.145989" lon="11.6159456">
+    <name>Richard-Strauss-Tunnel (Bezirksteil Altbogenhausen), Altbogenhausen (1)</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1429441" lon="11.6153115">
+    <name>Richard-Strauss-Tunnel (Steinhausen), Au-Haidhausen</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1427988" lon="11.6154678">
+    <name>Richard-Strauss-Tunnel (Steinhausen), Au-Haidhausen (1)</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0891095" lon="11.6445637">
+    <name>Schindlerplatz (Bezirksteil Neuperlach), Neuperlach</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1849338" lon="11.5665685">
+    <name>Schleißheimer Straße (Bezirksteil Milbertshofen), Milbertshofen</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.2118756" lon="11.5628969">
+    <name>Schleißheimer Straße (Nordhaide), Am Hart</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.2070927" lon="11.5632773">
+    <name>Schleißheimer Straße, München</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1283149" lon="11.596181">
+    <name>Weißenburger Platz (Au-Haidhausen), München</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1283056" lon="11.5963803">
+    <name>Weißenburger Platz (Au-Haidhausen), München (1)</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1434706" lon="11.5035154">
+    <name>Wotanstraße, Laim</name>
+    <type>Plakate</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+</gpx>
