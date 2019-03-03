@@ -1,30 +1,8 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
-    <name>favourites</name>
+    <name>Standorte_Muenchen</name>
   </metadata>
-  <wpt lat="48.1509128" lon="11.5816927">
-    <name>17021 (17021)</name>
-    <type>Plakate</type>
-    <cmt>Amenity:17021: emergency_infrastructure:fire_hydrant</cmt>
-    <extensions>
-      <color>#b4d00d0d</color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.1413602" lon="11.4928234">
-    <name>Agricolastraße (Laim), München</name>
-    <type>Plakate</type>
-    <extensions>
-      <color>#b4d00d0d</color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.1277166" lon="11.5759601">
-    <name>Auenstraße, München</name>
-    <type>Plakate</type>
-    <extensions>
-      <color>#b4d00d0d</color>
-    </extensions>
-  </wpt>
   <wpt lat="48.1784599" lon="11.5559966">
     <name>Brundageplatz, München</name>
     <type>Plakate</type>
@@ -75,13 +53,6 @@
       <color>#b4d00d0d</color>
     </extensions>
   </wpt>
-  <wpt lat="48.1452688" lon="11.4798036">
-    <name>Landsberger Straße, Am Westbad</name>
-    <type>Plakate</type>
-    <extensions>
-      <color>#b4d00d0d</color>
-    </extensions>
-  </wpt>
   <wpt lat="48.0998358" lon="11.6310374">
     <name>Meine Position</name>
     <type>Plakate</type>
@@ -98,20 +69,6 @@
   </wpt>
   <wpt lat="48.0890682" lon="11.6440922">
     <name>Meine Position (5)</name>
-    <type>Plakate</type>
-    <extensions>
-      <color>#b4d00d0d</color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.1657185" lon="11.4943993">
-    <name>Menzinger Straße (Nymphenburg), München</name>
-    <type>Plakate</type>
-    <extensions>
-      <color>#b4d00d0d</color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.1527955" lon="11.5341591">
-    <name>Nymphenburger Straße, Neuhausen</name>
     <type>Plakate</type>
     <extensions>
       <color>#b4d00d0d</color>
@@ -138,29 +95,8 @@
       <color>#b4d00d0d</color>
     </extensions>
   </wpt>
-  <wpt lat="48.1430368" lon="11.5889662">
-    <name>Prinzregentenstraße (Bezirksteil Lehel), Lehel</name>
-    <type>Plakate</type>
-    <extensions>
-      <color>#b4d00d0d</color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.1429502" lon="11.5888712">
-    <name>Prinzregentenstraße (Bezirksteil Lehel), Lehel (1)</name>
-    <type>Plakate</type>
-    <extensions>
-      <color>#b4d00d0d</color>
-    </extensions>
-  </wpt>
   <wpt lat="48.1383825" lon="11.6125414">
     <name>Prinzregentenstraße, Steinhausen</name>
-    <type>Plakate</type>
-    <extensions>
-      <color>#b4d00d0d</color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.1501806" lon="11.5813764">
-    <name>Professor-Huber-Platz (Stadtbezirk 03 Maxvorstadt), Maxvorstadt</name>
     <type>Plakate</type>
     <extensions>
       <color>#b4d00d0d</color>
@@ -222,27 +158,6 @@
       <color>#b4d00d0d</color>
     </extensions>
   </wpt>
-  <wpt lat="48.1849338" lon="11.5665685">
-    <name>Schleißheimer Straße (Bezirksteil Milbertshofen), Milbertshofen</name>
-    <type>Plakate</type>
-    <extensions>
-      <color>#b4d00d0d</color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.2118756" lon="11.5628969">
-    <name>Schleißheimer Straße (Nordhaide), Am Hart</name>
-    <type>Plakate</type>
-    <extensions>
-      <color>#b4d00d0d</color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.2070927" lon="11.5632773">
-    <name>Schleißheimer Straße, München</name>
-    <type>Plakate</type>
-    <extensions>
-      <color>#b4d00d0d</color>
-    </extensions>
-  </wpt>
   <wpt lat="48.1197714" lon="11.6698904">
     <name>Wasserburger Landstraße, Bezirksteil Trudering-Riem</name>
     <type>Plakate</type>
@@ -287,13 +202,6 @@
   </wpt>
   <wpt lat="48.1283056" lon="11.5963803">
     <name>Weißenburger Platz (Au-Haidhausen), München (1)</name>
-    <type>Plakate</type>
-    <extensions>
-      <color>#b4d00d0d</color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.1434706" lon="11.5035154">
-    <name>Wotanstraße, Laim</name>
     <type>Plakate</type>
     <extensions>
       <color>#b4d00d0d</color>
