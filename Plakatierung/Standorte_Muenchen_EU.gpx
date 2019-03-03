@@ -180,4 +180,11 @@
       <color>#b4eecc22</color>
     </extensions>
   </wpt>
+  <wpt lat="48.1210087" lon="11.5990783">
+    <name>V-Markt, Balanstraße, München</name>
+    <type>München EU</type>
+    <extensions>
+      <color>#b4eecc22</color>
+    </extensions>
+  </wpt>
 </gpx>
