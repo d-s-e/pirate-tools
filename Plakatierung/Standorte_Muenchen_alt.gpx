@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~ 3.3.6" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Plakate München alt</name>
+  </metadata>
+  <wpt lat="48.1509128" lon="11.5816927">
+    <name>17021 (17021)</name>
+    <type>Plakate alt</type>
+    <extensions>
+      <color>#b4eecc22</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1413602" lon="11.4928234">
+    <name>Agricolastraße (Laim), München</name>
+    <type>Plakate alt</type>
+    <extensions>
+      <color>#b4eecc22</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1784599" lon="11.5559966">
+    <name>Brundageplatz, München</name>
+    <type>Plakate alt</type>
+    <extensions>
+      <color>#b4eecc22</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1523675" lon="11.6132971">
+    <name>Bülowstraße (Bezirksteil Altbogenhausen), Altbogenhausen</name>
+    <type>Plakate alt</type>
+    <extensions>
+      <color>#b4eecc22</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1522681" lon="11.613167">
+    <name>Bülowstraße (Bezirksteil Altbogenhausen), Altbogenhausen (1)</name>
+    <desc>umsetzen</desc>
+    <type>Plakate alt</type>
+    <extensions>
+      <color>#b4eecc22</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1520905" lon="11.6127832">
+    <name>Bülowstraße (Bezirksteil Altbogenhausen), Altbogenhausen (2)</name>
+    <type>Plakate alt</type>
+    <extensions>
+      <color>#b4eecc22</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1600671" lon="11.5468647">
+    <name>Dachaür Straße, Oberwiesenfeld</name>
+    <type>Plakate alt</type>
+    <extensions>
+      <color>#b4eecc22</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1527955" lon="11.5341591">
+    <name>Nymphenburger Straße, Neuhausen</name>
+    <type>Plakate alt</type>
+    <extensions>
+      <color>#b4eecc22</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1285376" lon="11.6000901">
+    <name>Pariser Platz (Au-Haidhausen), München (1)</name>
+    <type>Plakate alt</type>
+    <extensions>
+      <color>#b4eecc22</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1396395" lon="11.60682">
+    <name>Prinzregentenstraße (Altbogenhausen), Bogenhausen</name>
+    <type>Plakate alt</type>
+    <extensions>
+      <color>#b4eecc22</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1430368" lon="11.5889662">
+    <name>Prinzregentenstraße (Bezirksteil Lehel), Lehel</name>
+    <type>Plakate alt</type>
+    <extensions>
+      <color>#b4eecc22</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1429502" lon="11.5888712">
+    <name>Prinzregentenstraße (Bezirksteil Lehel), Lehel (1)</name>
+    <type>Plakate alt</type>
+    <extensions>
+      <color>#b4eecc22</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1383825" lon="11.6125414">
+    <name>Prinzregentenstraße, Steinhausen</name>
+    <type>Plakate alt</type>
+    <extensions>
+      <color>#b4eecc22</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1501806" lon="11.5813764">
+    <name>Professor-Huber-Platz (Stadtbezirk 03 Maxvorstadt), Maxvorstadt</name>
+    <type>Plakate alt</type>
+    <extensions>
+      <color>#b4eecc22</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1849338" lon="11.5665685">
+    <name>Schleißheimer Straße (Bezirksteil Milbertshofen), Milbertshofen</name>
+    <type>Plakate alt</type>
+    <extensions>
+      <color>#b4eecc22</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.2118756" lon="11.5628969">
+    <name>Schleißheimer Straße (Nordhaide), Am Hart</name>
+    <type>Plakate alt</type>
+    <extensions>
+      <color>#b4eecc22</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.2070927" lon="11.5632773">
+    <name>Schleißheimer Straße, München</name>
+    <type>Plakate alt</type>
+    <extensions>
+      <color>#b4eecc22</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1210086" lon="11.5990783">
+    <name>V-Markt</name>
+    <type>Plakate alt</type>
+    <extensions>
+      <color>#b4eecc22</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1197714" lon="11.6698904">
+    <name>Wasserburger Landstraße, Bezirksteil Trudering-Riem</name>
+    <type>Plakate alt</type>
+    <extensions>
+      <color>#b4eecc22</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1134837" lon="11.7006935">
+    <name>Wasserburger Landstraße, München</name>
+    <type>Plakate alt</type>
+    <extensions>
+      <color>#b4eecc22</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1180233" lon="11.6889343">
+    <name>Wasserburger Landstraße, München (1)</name>
+    <type>Plakate alt</type>
+    <extensions>
+      <color>#b4eecc22</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1283056" lon="11.5963803">
+    <name>Weißenburger Platz (Au-Haidhausen), München (1)</name>
+    <type>Plakate alt</type>
+    <extensions>
+      <color>#b4eecc22</color>
+    </extensions>
+  </wpt>
+</gpx>

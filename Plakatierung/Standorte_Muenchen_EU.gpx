@@ -1,190 +1,251 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
-<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="OsmAnd~ 3.3.6" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
-    <name>Standorte_Muenchen_EU</name>
+    <name>Plakate München EU</name>
   </metadata>
-  <wpt lat="48.159768" lon="11.530087">
-    <name>013</name>
-    <type>München EU</type>
-    <extensions>
-      <color>#b4eecc22</color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.164364" lon="11.502224">
-    <name>018</name>
-    <type>München EU</type>
-    <extensions>
-      <color>#b4eecc22</color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.1259" lon="11.572742">
-    <name>027</name>
-    <type>München EU</type>
-    <extensions>
-      <color>#b4eecc22</color>
-    </extensions>
-  </wpt>
   <wpt lat="48.13196" lon="11.57623">
     <name>030</name>
     <type>München EU</type>
     <extensions>
-      <color>#b4eecc22</color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.155647" lon="11.511688">
-    <name>039</name>
-    <type>München EU</type>
-    <extensions>
-      <color>#b4eecc22</color>
+      <color>#b410c0f0</color>
     </extensions>
   </wpt>
   <wpt lat="48.117414" lon="11.502612">
     <name>040</name>
     <type>München EU</type>
     <extensions>
-      <color>#b4eecc22</color>
+      <color>#b410c0f0</color>
     </extensions>
   </wpt>
   <wpt lat="48.141289" lon="11.413501">
     <name>053</name>
     <type>München EU</type>
     <extensions>
-      <color>#b4eecc22</color>
+      <color>#b410c0f0</color>
     </extensions>
   </wpt>
   <wpt lat="48.141239" lon="11.49275">
     <name>058</name>
     <type>München EU</type>
     <extensions>
-      <color>#b4eecc22</color>
+      <color>#b410c0f0</color>
     </extensions>
   </wpt>
   <wpt lat="48.145409" lon="11.521476">
     <name>072</name>
     <type>München EU</type>
     <extensions>
-      <color>#b4eecc22</color>
+      <color>#b410c0f0</color>
     </extensions>
   </wpt>
   <wpt lat="48.1197254" lon="11.5027357">
     <name>175</name>
     <type>München EU</type>
     <extensions>
-      <color>#b4eecc22</color>
+      <color>#b410c0f0</color>
     </extensions>
   </wpt>
   <wpt lat="48.1277166" lon="11.5759601">
     <name>Auenstraße, München</name>
     <type>München EU</type>
     <extensions>
-      <color>#b4eecc22</color>
+      <color>#b410c0f0</color>
     </extensions>
   </wpt>
-  <wpt lat="48.1600671" lon="11.5468647">
-    <name>Dachauer Straße, Oberwiesenfeld</name>
+  <wpt lat="48.0898847" lon="11.6449437">
+    <name>Carl-Wery-Straße (Perlach), München</name>
     <type>München EU</type>
     <extensions>
-      <color>#b4eecc22</color>
+      <color>#b410c0f0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0878274" lon="11.6392974">
+    <name>Dietzfelbingerplatz (Bezirksteil Neuperlach) 2, Neuperlach</name>
+    <type>München EU</type>
+    <extensions>
+      <color>#b410c0f0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1414176" lon="11.5832632">
+    <name>Franz-Josef-Strauß-Ring, Lehel</name>
+    <type>München EU</type>
+    <extensions>
+      <color>#b410c0f0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1764997" lon="11.5300056">
+    <name>Georg-Brauchle-Ring (Moosach), München</name>
+    <type>München EU</type>
+    <extensions>
+      <color>#b410c0f0</color>
     </extensions>
   </wpt>
   <wpt lat="48.1217573" lon="11.5689468">
     <name>Informationen</name>
     <type>München EU</type>
-    <cmt>Amenity:: tourism:information</cmt>
     <extensions>
-      <color>#b4eecc22</color>
+      <color>#b410c0f0</color>
     </extensions>
   </wpt>
   <wpt lat="48.1455128" lon="11.5656774">
     <name>Königsplatz, Maxvorstadt</name>
     <type>München EU</type>
     <extensions>
-      <color>#b4eecc22</color>
+      <color>#b410c0f0</color>
     </extensions>
   </wpt>
   <wpt lat="48.1457165" lon="11.5504471">
     <name>Marsstraße, Marsfeld</name>
     <type>München EU</type>
     <extensions>
-      <color>#b4eecc22</color>
+      <color>#b410c0f0</color>
     </extensions>
   </wpt>
   <wpt lat="48.1692128" lon="11.5282719">
     <name>Meine Position</name>
     <type>München EU</type>
     <extensions>
-      <color>#b4eecc22</color>
+      <color>#b410c0f0</color>
     </extensions>
   </wpt>
   <wpt lat="48.1670932" lon="11.5271864">
     <name>Meine Position (1)</name>
     <type>München EU</type>
     <extensions>
-      <color>#b4eecc22</color>
+      <color>#b410c0f0</color>
     </extensions>
   </wpt>
   <wpt lat="48.1620106" lon="11.5293469">
     <name>Meine Position (2)</name>
     <type>München EU</type>
     <extensions>
-      <color>#b4eecc22</color>
+      <color>#b410c0f0</color>
     </extensions>
   </wpt>
-  <wpt lat="48.1247369" lon="11.5024476">
+  <wpt lat="48.0881582" lon="11.6408894">
+    <name>Meine Position (2) (1)</name>
+    <type>München EU</type>
+    <extensions>
+      <color>#b410c0f0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1245653" lon="11.502512">
     <name>Meine Position (3)</name>
     <type>München EU</type>
     <extensions>
-      <color>#b4eecc22</color>
+      <color>#b410c0f0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1218695" lon="11.502448">
+    <name>Meine Position (4)</name>
+    <type>München EU</type>
+    <extensions>
+      <color>#b410c0f0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0893255" lon="11.64407">
+    <name>Meine Position (5)</name>
+    <type>München EU</type>
+    <extensions>
+      <color>#b410c0f0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0998358" lon="11.6310374">
+    <name>Meine Position (6)</name>
+    <type>München EU</type>
+    <extensions>
+      <color>#b410c0f0</color>
     </extensions>
   </wpt>
   <wpt lat="48.1657185" lon="11.4943993">
     <name>Menzinger Straße (Nymphenburg), München</name>
     <type>München EU</type>
     <extensions>
-      <color>#b4eecc22</color>
+      <color>#b410c0f0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1005389" lon="11.6303587">
+    <name>Pfanzeltplatz, Perlach</name>
+    <type>München EU</type>
+    <extensions>
+      <color>#b410c0f0</color>
     </extensions>
   </wpt>
   <wpt lat="48.1784078" lon="11.555959">
     <name>Plakat</name>
     <type>München EU</type>
     <extensions>
-      <color>#b4eecc22</color>
+      <color>#b410c0f0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1549367" lon="11.511098">
+    <name>Romanplatz, Nymphenburg</name>
+    <type>München EU</type>
+    <extensions>
+      <color>#b410c0f0</color>
     </extensions>
   </wpt>
   <wpt lat="48.1551215" lon="11.5324259">
     <name>Rotkreuzplatz</name>
     <type>München EU</type>
-    <cmt>Amenity:Rotkreuzplatz: transportation:subway_entrance</cmt>
     <extensions>
-      <color>#b4eecc22</color>
+      <color>#b410c0f0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0891095" lon="11.6445637">
+    <name>Schindlerplatz (Bezirksteil Neuperlach), Neuperlach</name>
+    <type>München EU</type>
+    <extensions>
+      <color>#b410c0f0</color>
     </extensions>
   </wpt>
   <wpt lat="48.152481" lon="11.5341958">
     <name>Schulstraße, Neuhausen</name>
     <type>München EU</type>
     <extensions>
-      <color>#b4eecc22</color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.159656" lon="11.5301814">
-    <name>Waisenhausstraße, Neuhausen</name>
-    <type>München EU</type>
-    <extensions>
-      <color>#b4eecc22</color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.1222691" lon="11.5659506">
-    <name>Wittelsbacherstraße, München</name>
-    <type>München EU</type>
-    <extensions>
-      <color>#b4eecc22</color>
+      <color>#b410c0f0</color>
     </extensions>
   </wpt>
   <wpt lat="48.1210087" lon="11.5990783">
     <name>V-Markt, Balanstraße, München</name>
     <type>München EU</type>
     <extensions>
-      <color>#b4eecc22</color>
+      <color>#b410c0f0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.159656" lon="11.5301814">
+    <name>Waisenhausstraße, Neuhausen</name>
+    <type>München EU</type>
+    <extensions>
+      <color>#b410c0f0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1207904" lon="11.6663647">
+    <name>Wasserburger Landstraße, Bezirksteil Trudering-Riem (2)</name>
+    <type>München EU</type>
+    <extensions>
+      <color>#b410c0f0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1209559" lon="11.6657058">
+    <name>Wasserburger Landstraße, Bezirksteil Trudering-Riem (3)</name>
+    <type>München EU</type>
+    <extensions>
+      <color>#b410c0f0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1208467" lon="11.6661847">
+    <name>Wasserburger Landstraße, Bezirksteil Trudering-Riem (4)</name>
+    <type>München EU</type>
+    <extensions>
+      <color>#b410c0f0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1222691" lon="11.5659506">
+    <name>Wittelsbacherstraße, München</name>
+    <type>München EU</type>
+    <extensions>
+      <color>#b410c0f0</color>
     </extensions>
   </wpt>
 </gpx>

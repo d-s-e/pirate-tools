@@ -1,62 +1,272 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
-<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="OsmAnd~ 3.3.6" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
-    <name>Standorte_Muenchen_ungeprueft</name>
+    <name>Plakate München ungeprüft</name>
   </metadata>
+  <wpt lat="48.149496" lon="11.558569">
+    <name>004</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.15388" lon="11.554103">
+    <name>005</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
   <wpt lat="48.159403" lon="11.555176">
     <name>006</name>
-    <type>Plakatliste_2019.gpx</type>
+    <type>ungeprüft</type>
     <extensions>
-      <color>#b410c0f0</color>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.160518" lon="11.546362">
+    <name>007</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.151691" lon="11.556761">
+    <name>008</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.169218" lon="11.530323">
+    <name>009</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.168113" lon="11.519484">
+    <name>010</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.167247" lon="11.527337">
+    <name>011</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.168605" lon="11.526653">
+    <name>012</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
     </extensions>
   </wpt>
   <wpt lat="48.159768" lon="11.530087">
     <name>013</name>
-    <type>Plakatliste_2019.gpx</type>
+    <type>ungeprüft</type>
     <extensions>
-      <color>#b410c0f0</color>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.130483" lon="11.555857">
+    <name>020</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.131568" lon="11.556152">
+    <name>021</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
     </extensions>
   </wpt>
   <wpt lat="48.16628" lon="11.590871">
     <name>022</name>
-    <type>Plakatliste_2019.gpx</type>
+    <type>ungeprüft</type>
     <extensions>
-      <color>#b410c0f0</color>
+      <color>#b4d00d0d</color>
     </extensions>
   </wpt>
   <wpt lat="48.166658" lon="11.578382">
     <name>023</name>
-    <type>Plakatliste_2019.gpx</type>
+    <type>ungeprüft</type>
     <extensions>
-      <color>#b410c0f0</color>
+      <color>#b4d00d0d</color>
     </extensions>
   </wpt>
   <wpt lat="48.16133" lon="11.568456">
     <name>024</name>
-    <type>Plakatliste_2019.gpx</type>
+    <type>ungeprüft</type>
     <extensions>
-      <color>#b410c0f0</color>
+      <color>#b4d00d0d</color>
     </extensions>
   </wpt>
   <wpt lat="48.160666" lon="11.563507">
     <name>025</name>
-    <type>Plakatliste_2019.gpx</type>
+    <type>ungeprüft</type>
     <extensions>
-      <color>#b410c0f0</color>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.127552" lon="11.575807">
+    <name>026</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
     </extensions>
   </wpt>
   <wpt lat="48.1259" lon="11.572742">
     <name>027</name>
-    <type>Plakatliste_2019.gpx</type>
+    <type>ungeprüft</type>
     <extensions>
-      <color>#b410c0f0</color>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.123912" lon="11.568751">
+    <name>028</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.122333" lon="11.565744">
+    <name>029</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.129292" lon="11.579398">
+    <name>031</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.159677" lon="11.547979">
+    <name>042</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.17894" lon="11.567345">
+    <name>043</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.180707" lon="11.566873">
+    <name>044</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.19188" lon="11.565204">
+    <name>045</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.20482" lon="11.563901">
+    <name>046</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.211724" lon="11.562941">
+    <name>047</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.207216" lon="11.563225">
+    <name>048</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.203432" lon="11.563749">
+    <name>049</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.204928" lon="11.569269">
+    <name>050</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
     </extensions>
   </wpt>
   <wpt lat="48.17829" lon="11.585062">
     <name>051</name>
-    <type>Plakatliste_2019.gpx</type>
+    <type>ungeprüft</type>
     <extensions>
-      <color>#b410c0f0</color>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.187049" lon="11.565756">
+    <name>060</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.18761" lon="11.572743">
+    <name>061</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.155094" lon="11.532862">
+    <name>073</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.152556" lon="11.53474">
+    <name>074</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.148022" lon="11.555577">
+    <name>075</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.145759" lon="11.550207">
+    <name>076</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.142487" lon="11.554316">
+    <name>077</name>
+    <type>ungeprüft</type>
+    <extensions>
+      <color>#b4d00d0d</color>
     </extensions>
   </wpt>
 </gpx>
