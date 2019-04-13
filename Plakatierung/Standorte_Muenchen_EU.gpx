@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
-<gpx version="1.1" creator="OsmAnd~ 3.3.6" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="OsmAnd~ 3.3.7" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
     <name>Plakate München EU</name>
   </metadata>
@@ -26,13 +26,6 @@
   </wpt>
   <wpt lat="48.141239" lon="11.49275">
     <name>058</name>
-    <type>München EU</type>
-    <extensions>
-      <color>#b410c0f0</color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.145409" lon="11.521476">
-    <name>072</name>
     <type>München EU</type>
     <extensions>
       <color>#b410c0f0</color>
@@ -115,7 +108,7 @@
       <color>#b410c0f0</color>
     </extensions>
   </wpt>
-  <wpt lat="48.1620106" lon="11.5293469">
+  <wpt lat="48.1751232" lon="11.5661458">
     <name>Meine Position (2)</name>
     <type>München EU</type>
     <extensions>
@@ -152,6 +145,13 @@
   </wpt>
   <wpt lat="48.0998358" lon="11.6310374">
     <name>Meine Position (6)</name>
+    <type>München EU</type>
+    <extensions>
+      <color>#b410c0f0</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1259118" lon="11.5726709">
+    <name>Meine Position (14)</name>
     <type>München EU</type>
     <extensions>
       <color>#b410c0f0</color>
@@ -199,13 +199,6 @@
       <color>#b410c0f0</color>
     </extensions>
   </wpt>
-  <wpt lat="48.152481" lon="11.5341958">
-    <name>Schulstraße, Neuhausen</name>
-    <type>München EU</type>
-    <extensions>
-      <color>#b410c0f0</color>
-    </extensions>
-  </wpt>
   <wpt lat="48.1210087" lon="11.5990783">
     <name>V-Markt, Balanstraße, München</name>
     <type>München EU</type>
@@ -236,13 +229,6 @@
   </wpt>
   <wpt lat="48.1208467" lon="11.6661847">
     <name>Wasserburger Landstraße, Bezirksteil Trudering-Riem (4)</name>
-    <type>München EU</type>
-    <extensions>
-      <color>#b410c0f0</color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.1222691" lon="11.5659506">
-    <name>Wittelsbacherstraße, München</name>
     <type>München EU</type>
     <extensions>
       <color>#b410c0f0</color>
