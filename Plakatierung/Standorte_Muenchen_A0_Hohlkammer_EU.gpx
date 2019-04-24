@@ -1,0 +1,356 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~ 3.3.7" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Standorte München A0 Hohlkammer EU</name>
+  </metadata>
+  <wpt lat="48.1119981" lon="11.570363">
+    <name>Candidstraße (Untergiesing), München (1)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.141276" lon="11.583246">
+    <name>Christophstraße (Lehel), München</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1357629" lon="11.5998469">
+    <name>Einsteinstraße (Au-Haidhausen), München</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1270595" lon="11.6347058">
+    <name>Else-Rosenfeld-Straße, Berg am Laim</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1281229" lon="11.5768403">
+    <name>Erhardtstraße, München</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1316715" lon="11.5842974">
+    <name>Erhardtstraße, München (1)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1612764" lon="11.5888333">
+    <name>Feilitzschstraße (Münchner Freiheit), München</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1421284" lon="11.5835345">
+    <name>Franz-Josef-Strauß-Ring, Lehel</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1437708" lon="11.5842832">
+    <name>Franz-Josef-Strauß-Ring, München</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1278576" lon="11.6079065">
+    <name>Friedenstraße (Stadtbezirk 14 Berg am Laim), Berg am Laim</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1268889" lon="11.6065702">
+    <name>Friedenstraße (Stadtbezirk 14 Berg am Laim), Berg am Laim (1)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1510473" lon="11.5809005">
+    <name>Geschwister-Scholl-Platz (Maxvorstadt), München</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1504837" lon="11.5805328">
+    <name>Geschwister-Scholl-Platz (Maxvorstadt), München (1)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1107605" lon="11.5955812">
+    <name>Giesinger Bahnhofplatz, München</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1346965" lon="11.5959188">
+    <name>Grütznerstraße, München</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1342096" lon="11.59801">
+    <name>Johannisplatz (Au-Haidhausen), München</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1499657" lon="11.5847377">
+    <name>Königinstraße (Schönfeldvorstadt), München</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1597306" lon="11.5749764">
+    <name>Kurfürstenstraße (Neuschwabing), Schwabing-West</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1557096" lon="11.5835516">
+    <name>Leopoldstraße (Stadtbezirk 03 Maxvorstadt), Maxvorstadt</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1559211" lon="11.583999">
+    <name>Leopoldstraße (Stadtbezirk 03 Maxvorstadt), Maxvorstadt (1)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1597281" lon="11.5857665">
+    <name>Leopoldstraße (Stadtbezirk 03 Maxvorstadt), Maxvorstadt (2)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1601028" lon="11.585598">
+    <name>Leopoldstraße (Stadtbezirk 03 Maxvorstadt), Maxvorstadt (3)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1263326" lon="11.5833847">
+    <name>Mariahilfplatz, Au-Haidhausen</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1336859" lon="11.6893444">
+    <name>Meine Position (7)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1250618" lon="11.5820366">
+    <name>Meine Position (8)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1008991" lon="11.6469807">
+    <name>Meine Position (9)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1486217" lon="11.5688414">
+    <name>Meine Position (13)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1469207" lon="11.5701565">
+    <name>Meine Position (15)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1564712" lon="11.5893782">
+    <name>Meine Position (16)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1397016" lon="11.5889488">
+    <name>Meine Position (17)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.136316" lon="11.5958776">
+    <name>Meine Position (18)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0936794" lon="11.6306846">
+    <name>Meine Position (19)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1432259" lon="11.573949">
+    <name>Meine Position (20)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1437829" lon="11.5857053">
+    <name>Prinzregentenstraße (Bezirksteil Lehel), Lehel</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1435569" lon="11.5853006">
+    <name>Prinzregentenstraße (Bezirksteil Lehel), Lehel (1)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1410746" lon="11.5978565">
+    <name>Prinzregentenstraße, Maximilianeum</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1412563" lon="11.5983025">
+    <name>Prinzregentenstraße, Maximilianeum (1)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1324479" lon="11.6890016">
+    <name>Riem-Arkaden</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1181929" lon="11.6102174">
+    <name>Rosenheimer Straße, Ramersdorf</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1179305" lon="11.6101483">
+    <name>Rosenheimer Straße, Ramersdorf (1)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1534939" lon="11.5607964">
+    <name>Schleißheimer Straße (Stadtbezirk 03 Maxvorstadt), Maxvorstadt</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1105574" lon="11.5950896">
+    <name>Schwanseestraße, Obergiesing</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1331145" lon="11.585909">
+    <name>Steinsdorfstraße, Lehel</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1367106" lon="11.589183">
+    <name>Steinsdorfstraße, Lehel (1)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1012301" lon="11.6455421">
+    <name>Thomas-Dehler-Straße 12, Neuperlach</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1254816" lon="11.6633698">
+    <name>Truderinger Straße, München</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1255646" lon="11.6626905">
+    <name>Truderinger Straße, München (1)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1415296" lon="11.5944905">
+    <name>Widenmayerstraße, Lehel</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1330933" lon="11.6895877">
+    <name>Willy-Brandt-Platz 5, Messestadt Riem</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1327409" lon="11.6918714">
+    <name>Willy-Brandt-Platz (Messestadt Riem), München</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+</gpx>
