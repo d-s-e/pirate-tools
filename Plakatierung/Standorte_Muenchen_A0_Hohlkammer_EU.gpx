@@ -1,8 +1,22 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
-<gpx version="1.1" creator="OsmAnd~ 3.3.7" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="OsmAnd~ 3.3.8" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
     <name>Standorte München A0 Hohlkammer EU</name>
   </metadata>
+  <wpt lat="48.1182719" lon="11.6587473">
+    <name>Bajuwarenstraße (Trudering), Bezirksteil Trudering-Riem</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1223131" lon="11.598261">
+    <name>Balanstraße (Bezirksteil Ramersdorf), Ramersdorf</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
   <wpt lat="48.1119981" lon="11.570363">
     <name>Candidstraße (Untergiesing), München (1)</name>
     <type>Hohlkammer AO EU</type>
@@ -12,6 +26,13 @@
   </wpt>
   <wpt lat="48.141276" lon="11.583246">
     <name>Christophstraße (Lehel), München</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1128323" lon="11.6501645">
+    <name>Corinthstraße (Gartenstadt Trudering), München</name>
     <type>Hohlkammer AO EU</type>
     <extensions>
       <color>#b4ff5020</color>
@@ -40,6 +61,13 @@
   </wpt>
   <wpt lat="48.1316715" lon="11.5842974">
     <name>Erhardtstraße, München (1)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1158649" lon="11.6391508">
+    <name>Feichtstraße (Perlach), München</name>
     <type>Hohlkammer AO EU</type>
     <extensions>
       <color>#b4ff5020</color>
@@ -80,6 +108,27 @@
       <color>#b4ff5020</color>
     </extensions>
   </wpt>
+  <wpt lat="48.1049718" lon="11.5808458">
+    <name>Fromundstraße (Bezirksteil Obergiesing), Obergiesing</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1044681" lon="11.5814509">
+    <name>Fromundstraße (Bezirksteil Obergiesing), Obergiesing (1)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0868483" lon="11.5546818">
+    <name>Geiselgasteigstraße (Bezirksteil Harlaching), Harlaching</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
   <wpt lat="48.1510473" lon="11.5809005">
     <name>Geschwister-Scholl-Platz (Maxvorstadt), München</name>
     <type>Hohlkammer AO EU</type>
@@ -103,6 +152,20 @@
   </wpt>
   <wpt lat="48.1346965" lon="11.5959188">
     <name>Grütznerstraße, München</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.117616" lon="11.6357936">
+    <name>Heinrich-Wieland-Straße (Stadtbezirk 14 Berg am Laim), Berg am Laim</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1115808" lon="11.648768">
+    <name>Heinrich-Wieland-Straße (Stadtbezirk 14 Berg am Laim), Berg am Laim (1)</name>
     <type>Hohlkammer AO EU</type>
     <extensions>
       <color>#b4ff5020</color>
@@ -185,6 +248,20 @@
       <color>#b4ff5020</color>
     </extensions>
   </wpt>
+  <wpt lat="48.1094287" lon="11.6496835">
+    <name>Meine Position (11)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1065832" lon="11.6210006">
+    <name>Meine Position (12)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
   <wpt lat="48.1486217" lon="11.5688414">
     <name>Meine Position (13)</name>
     <type>Hohlkammer AO EU</type>
@@ -229,6 +306,27 @@
   </wpt>
   <wpt lat="48.1432259" lon="11.573949">
     <name>Meine Position (20)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0947605" lon="11.5903166">
+    <name>Meine Position (21)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1089072" lon="11.5747133">
+    <name>Meine Position (22)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1188275" lon="11.5972996">
+    <name>Meine Position (23)</name>
     <type>Hohlkammer AO EU</type>
     <extensions>
       <color>#b4ff5020</color>
@@ -283,6 +381,20 @@
       <color>#b4ff5020</color>
     </extensions>
   </wpt>
+  <wpt lat="48.1189615" lon="11.630894">
+    <name>Sankt-Michael-Straße (Berg am Laim), München</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1043214" lon="11.5819329">
+    <name>Sankt-Quirin-Platz (Bezirksteil Giesing), Giesing</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
   <wpt lat="48.1534939" lon="11.5607964">
     <name>Schleißheimer Straße (Stadtbezirk 03 Maxvorstadt), Maxvorstadt</name>
     <type>Hohlkammer AO EU</type>
@@ -292,6 +404,13 @@
   </wpt>
   <wpt lat="48.1105574" lon="11.5950896">
     <name>Schwanseestraße, Obergiesing</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0866957" lon="11.5554408">
+    <name>Seybothstraße (Harlaching), München</name>
     <type>Hohlkammer AO EU</type>
     <extensions>
       <color>#b4ff5020</color>
