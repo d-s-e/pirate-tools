@@ -185,6 +185,27 @@
       <color>#b4ff5020</color>
     </extensions>
   </wpt>
+  <wpt lat="48.1149907" lon="11.6177163">
+    <name>Innsbrucker Ring (Ramersdorf), Perlach</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1237478" lon="11.6205044">
+    <name>Innsbrucker Ring (Stadtbezirk 14 Berg am Laim), Berg am Laim</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1206203" lon="11.6205537">
+    <name>Innsbrucker Ring (Stadtbezirk 14 Berg am Laim), Berg am Laim (1)</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
   <wpt lat="48.1342096" lon="11.59801">
     <name>Johannisplatz (Au-Haidhausen), München</name>
     <type>Hohlkammer AO EU</type>
@@ -549,8 +570,22 @@
       <color>#b4ff5020</color>
     </extensions>
   </wpt>
+  <wpt lat="48.10874" lon="11.545815">
+    <name>Thalkirchner Straße (Sendling), München</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
   <wpt lat="48.1012301" lon="11.6455421">
     <name>Thomas-Dehler-Straße 12, Neuperlach</name>
+    <type>Hohlkammer AO EU</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1011967" lon="11.5470281">
+    <name>Tierparkstraße, Thalkirchen</name>
     <type>Hohlkammer AO EU</type>
     <extensions>
       <color>#b4ff5020</color>
