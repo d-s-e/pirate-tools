@@ -1,0 +1,252 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~ 3.5.5" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Standorte München Kommunalwahl 2020</name>
+  </metadata>
+  <wpt lat="48.1468018" lon="11.5705785">
+    <name>Barer Straße, Maxvorstadt</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1427916" lon="11.5678852">
+    <name>Barer Straße, Maxvorstadt (1)</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.132497" lon="11.5720763">
+    <name>Blumenstraße (Angerviertel), München</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1467398" lon="11.5615852">
+    <name>Brienner Straße 47, Maxvorstadt</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.112357" lon="11.5532592">
+    <name>Brudermühlstraße (Sendling), München</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1324598" lon="11.6145889">
+    <name>Dingolfinger Straße (Stadtbezirk 14 Berg am Laim), Berg am Laim</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1044138" lon="11.5814653">
+    <name>Fromundstraße (Bezirksteil Obergiesing), Obergiesing (2)</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1468738" lon="11.5702953">
+    <name>Gabelsbergerstraße, Maxvorstadt</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1509808" lon="11.5809368">
+    <name>Geschwister-Scholl-Platz (Maxvorstadt), München (2)</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1107386" lon="11.5954715">
+    <name>Giesinger Bahnhofplatz, München (1)</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1164297" lon="11.570096">
+    <name>Hans-Mielich-Platz, Untergiesing</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1611938" lon="11.5677443">
+    <name>Hohenzollernstraße (Neuschwabing), Schwabing-West</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1442409" lon="11.5625241">
+    <name>Karlstraße, Maxvorstadt</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1410983" lon="11.5194011">
+    <name>Landsberger Straße 191, Friedenheim</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1261425" lon="11.583183">
+    <name>Mariahilfplatz, Au-Haidhausen (1)</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1715575" lon="11.573163">
+    <name>Meine Position (31)</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.166626" lon="11.5787613">
+    <name>Meine Position (32)</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1612512" lon="11.5889729">
+    <name>Meine Position (33)</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1725591" lon="11.5962674">
+    <name>Meine Position (34)</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1783494" lon="11.602098">
+    <name>Meine Position (35)</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1617726" lon="11.5527945">
+    <name>Meine Position (36)</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1457984" lon="11.520046">
+    <name>Meine Position (37)</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1329749" lon="11.5396664">
+    <name>Meine Position (38)</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1315944" lon="11.5764242">
+    <name>Meine Position (39)</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1281964" lon="11.6026085">
+    <name>Meine Position (40)</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1286383" lon="11.6046311">
+    <name>Orleansstraße (Au-Haidhausen), München</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1428405" lon="11.6155429">
+    <name>Richard-Strauss-Tunnel (Steinhausen), Au-Haidhausen</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1534939" lon="11.5607964">
+    <name>Schleißheimer Straße (Stadtbezirk 03 Maxvorstadt), Maxvorstadt</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1335589" lon="11.5440345">
+    <name>Schwanthalerhöhe</name>
+    <type>Affichen A1</type>
+    <cmt>Amenity:Schwanthalerhohe: transportation:subway_entrance</cmt>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1612807" lon="11.5534867">
+    <name>Schwere-Reiter-Straße (Stadtbezirk 04 Schwabing-West), Schwabing-West</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0874989" lon="11.5569655">
+    <name>Seybothstraße (Harlaching), München (1)</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1083138" lon="11.545737">
+    <name>Thalkirchner Straße (Sendling), München (1)</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1012422" lon="11.5471161">
+    <name>Tierparkstraße, Thalkirchen (1)</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1503376" lon="11.5960216">
+    <name>Tivolistraße, München (1)</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1321919" lon="11.5705585">
+    <name>Unterer Anger, München</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+</gpx>
