@@ -3,6 +3,41 @@
   <metadata>
     <name>Standorte München Kommunalwahl 2020</name>
   </metadata>
+  <wpt lat="48.108865" lon="11.6462822">
+    <name>Albert-Schweitzer-Straße (Neuperlach), Perlach</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1206102" lon="11.6177944">
+    <name>Bad-Schachener-Straße (Berg am Laim), München</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1203847" lon="11.6214556">
+    <name>Bad-Schachener-Straße (Ramersdorf), Perlach</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1216718" lon="11.5988775">
+    <name>Balanstraße (Bezirksteil Ramersdorf), Ramersdorf (1)</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1223624" lon="11.5982499">
+    <name>Balanstraße (Bezirksteil Ramersdorf), Ramersdorf (2)</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
   <wpt lat="48.1468018" lon="11.5705785">
     <name>Barer Straße, Maxvorstadt</name>
     <type>Affichen A1</type>
@@ -45,6 +80,13 @@
       <color>#b400842b</color>
     </extensions>
   </wpt>
+  <wpt lat="48.1277903" lon="11.607923">
+    <name>Friedenstraße (Stadtbezirk 14 Berg am Laim), Berg am Laim (2)</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
   <wpt lat="48.1044138" lon="11.5814653">
     <name>Fromundstraße (Bezirksteil Obergiesing), Obergiesing (2)</name>
     <type>Affichen A1</type>
@@ -73,6 +115,20 @@
       <color>#b400842b</color>
     </extensions>
   </wpt>
+  <wpt lat="48.1257207" lon="11.6096652">
+    <name>Haager Straße (Berg am Laim), München</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1256266" lon="11.6099751">
+    <name>Haager Straße (Berg am Laim), München (1)</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
   <wpt lat="48.1164297" lon="11.570096">
     <name>Hans-Mielich-Platz, Untergiesing</name>
     <type>Affichen A1</type>
@@ -80,8 +136,29 @@
       <color>#b400842b</color>
     </extensions>
   </wpt>
+  <wpt lat="48.1177217" lon="11.6356841">
+    <name>Heinrich-Wieland-Straße (Stadtbezirk 14 Berg am Laim), Berg am Laim (2)</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1176176" lon="11.6358365">
+    <name>Heinrich-Wieland-Straße (Stadtbezirk 14 Berg am Laim), Berg am Laim (3)</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
   <wpt lat="48.1611938" lon="11.5677443">
     <name>Hohenzollernstraße (Neuschwabing), Schwabing-West</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1368199" lon="11.6342511">
+    <name>Hultschiner Straße (Bogenhausen), München</name>
     <type>Affichen A1</type>
     <extensions>
       <color>#b400842b</color>
@@ -178,6 +255,13 @@
       <color>#b400842b</color>
     </extensions>
   </wpt>
+  <wpt lat="48.0942709" lon="11.6426631">
+    <name>Meine Position (41)</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
   <wpt lat="48.1286383" lon="11.6046311">
     <name>Orleansstraße (Au-Haidhausen), München</name>
     <type>Affichen A1</type>
@@ -185,8 +269,29 @@
       <color>#b400842b</color>
     </extensions>
   </wpt>
+  <wpt lat="48.0998631" lon="11.6310718">
+    <name>Putzbrunner Straße (Perlach), München</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
   <wpt lat="48.1428405" lon="11.6155429">
     <name>Richard-Strauss-Tunnel (Steinhausen), Au-Haidhausen</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0894149" lon="11.6439996">
+    <name>Schindlerplatz (Bezirksteil Neuperlach), Neuperlach (1)</name>
+    <type>Affichen A1</type>
+    <extensions>
+      <color>#b400842b</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0893049" lon="11.6440975">
+    <name>Schindlerplatz (Bezirksteil Neuperlach), Neuperlach (2)</name>
     <type>Affichen A1</type>
     <extensions>
       <color>#b400842b</color>
