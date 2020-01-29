@@ -354,4 +354,94 @@
       <color>#b400842b</color>
     </extensions>
   </wpt>
+  <wpt lat="48.128441679413" lon="11.597747728229">
+      <name>Weißenburger Straße (Au-Haidhausen) 20, München</name>
+      <extensions>
+          <color>#3f51b5</color>
+      </extensions>
+  </wpt>
+  <wpt lat="48.109363089632" lon="11.574603281915">
+      <name>Grünwalder Straße 10a, Giesing</name>
+      <extensions>
+          <color>#3f51b5</color>
+      </extensions>
+  </wpt>
+  <wpt lat="48.117917027521" lon="11.619405895472">
+      <name>Echardinger Straße (Berg am Laim) 95, München</name>
+      <extensions>
+          <color>#3f51b5</color>
+      </extensions>
+  </wpt>
+  <wpt lat="48.128655504969" lon="11.595618724823">
+      <name>Weißenburger Straße (Au-Haidhausen) 9, München</name>
+      <extensions>
+          <color>#3f51b5</color>
+      </extensions>
+  </wpt>
+  <wpt lat="48.118014169764" lon="11.618620343506">
+      <name>Möschenfelder Straße (Perlach) 11, München</name>
+      <extensions>
+          <color>#3f51b5</color>
+      </extensions>
+  </wpt>
+  <wpt lat="48.128262763467" lon="11.596435960382">
+      <name>Weißenburger Platz (Haidhausen-Süd) 1, Au-Haidhausen</name>
+      <extensions>
+          <color>#3f51b5</color>
+      </extensions>
+  </wpt>
+  <wpt lat="48.128383383541" lon="11.600111592561">
+      <name>Pariser Platz (Au-Haidhausen) 5, München</name>
+      <extensions>
+          <color>#3f51b5</color>
+      </extensions>
+  </wpt>
+  <wpt lat="48.104788488893" lon="11.586144156754">
+      <name>Bacherstraße (Obergiesing) 42, München</name>
+      <extensions>
+          <color>#3f51b5</color>
+      </extensions>
+  </wpt>
+  <wpt lat="48.095737265581" lon="11.563776377589">
+      <name>Tiroler Platz (Bezirksteil Harlaching) 5, Harlaching</name>
+      <extensions>
+          <color>#3f51b5</color>
+      </extensions>
+  </wpt>
+  <wpt lat="48.131210489254" lon="11.596363540739">
+      <name>Steinstraße 55, Au-Haidhausen</name>
+      <extensions>
+          <color>#3f51b5</color>
+      </extensions>
+  </wpt>
+  <wpt lat="48.104567063722" lon="11.586137786508">
+      <name>Chiemgaustraße (Perlach) 28, München</name>
+      <extensions>
+          <color>#3f51b5</color>
+      </extensions>
+  </wpt>
+  <wpt lat="48.097702858145" lon="11.581300925463">
+      <name>Mangfallplatz (Neuharlaching) 1A, München</name>
+      <extensions>
+          <color>#3f51b5</color>
+      </extensions>
+  </wpt>
+  <wpt lat="48.096972879248" lon="11.564190108329">
+      <name>Grünwalder Straße 175, Giesing</name>
+      <extensions>
+          <color>#3f51b5</color>
+      </extensions>
+  </wpt>
+  <wpt lat="48.119970964887" lon="11.583547946066">
+      <name>Adresse ist bisher nicht bekannt</name>
+      <extensions>
+          <color>#3f51b5</color>
+      </extensions>
+  </wpt>
+  <wpt lat="48.086679297403" lon="11.555548869073">
+      <name>Geiselgasteigstraße 153, München</name>
+      <extensions>
+          <color>#3f51b5</color>
+      </extensions>
+  </wpt>
 </gpx>
